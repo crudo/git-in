@@ -1,5 +1,7 @@
 # git-in
-Git Interactive
+Interactive Git File Restore
+
+![demo](demo/git-in.gif)
 
 ### Requirements
 * Node >= 4
