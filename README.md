@@ -1,4 +1,6 @@
 # git-in
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/crudo/git-in.svg)](https://greenkeeper.io/)
 Interactive Git File Restore
 
 ![demo](demo/git-in.gif)
